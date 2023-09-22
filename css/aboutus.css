@@ -1,0 +1,48 @@
+.content{
+    width: 100%;
+    margin-top: 120px;
+    text-align: center;
+}
+
+
+
+#about{
+   margin:50px;
+    font-size: 17px;
+    text-align: center;
+    width:90%;
+
+ 
+}
+#about p{
+    padding: 40px;
+    margin:35;
+    font-size: 19px;
+    box-shadow: 0 1px 1px 0 rgba(24, 149, 202, 0.5);
+    font-family: Georgia, Cambria, "Times New Roman", serif;
+    color: #294065;
+    text-align: center;
+
+}
+
+section h1{
+    background-image: url("../images/abstract-watercolor-pastel-background_87374-139.webp");
+    color:#1D84AF;
+    padding: 15px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Georgia, Cambria, "Times New Roman", serif;
+
+}
+#about h2{
+    font-family: Georgia, Cambria, "Times New Roman", serif;
+    font-family: 'Arvo', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'Square Peg', cursive;
+}

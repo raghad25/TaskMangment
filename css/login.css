@@ -1,0 +1,77 @@
+*{
+    margin:0;
+    padding: 0;
+    top:0;
+}
+
+
+.main {
+   
+    box-shadow: 2px 4px 8px 2px rgba(239, 198, 198, 0.2);
+    width:100%;
+    display: flex;
+    margin-top: 190px;
+    text-align: center;
+   
+    
+}
+
+
+  .main-img {
+    height: 200px;
+    background-size: cover;
+    width: 50%;
+    height: auto;
+  }
+  .log-form{
+    width:50%;
+
+  }
+
+  fieldset {
+    width: 50%;
+    padding: 100px;
+    text-align: left;
+    font-size: 16px;
+    font-family: 'Arvo', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'Square Peg', cursive;
+    font-size: larger;
+    
+  }
+ 
+
+  .logout-btn ,button{
+    background-color: #ff4136;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+
+
+  input[type="text"] ,input[type="password"]{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 16px;
+    width: 300px;
+    margin-top: 10px;
+  }
+ 
+  button{
+    margin-top: 20px;
+    margin-left: 4px;
+    margin-right: 8px;
+    font-size: 16px;
+    font-family: 'Square Peg', cursive;
+  }
+  legend{
+    background-color: #ccc;
+    padding: 10px;
+    border-radius: 10px;
+    width:60%;
+    text-align: center;
+  }

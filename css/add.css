@@ -1,0 +1,83 @@
+#tab {
+    width: 50%;
+    margin: 0 auto;
+    padding: 30px;
+    box-shadow: 2px 2px 2px 4px #b0d5e9;
+    text-align: left;
+    font-family: 'Arvo', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'Square Peg', cursive;
+    margin-top: 50px;
+    border-radius: 30px;
+
+}
+
+#tab h2{
+    margin-bottom: 20px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    width:100%;
+   
+
+}
+#tab label {
+    font-weight: bold;
+    margin-right: 10px;
+    display: inline-block;
+    width: 140px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#tab input[type="text"], #tab textarea {
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+#tab input[type="submit"] {
+    padding: 10px 40px;
+    background-color: #238ec7;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+
+#tab select {
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+#tab input[type="date"] {
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+.error-field {
+    background-color: #ffb3b3;
+  }
+  
+  .error {
+    display: none;
+    color: #ff0000;
+    font-size: 12px;
+    margin-top: 5px;
+  }
+  
+  .error-visible {
+    display: block;
+  }
+  
